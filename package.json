@@ -1,0 +1,23 @@
+{
+  "name": "Emails",
+  "version": "1.0.0",
+  "description": "plantillas emails",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgar AG",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "gulp-sitemap": "^7.6.0",
+    "jshint": "^2.11.1"
+  }
+}
